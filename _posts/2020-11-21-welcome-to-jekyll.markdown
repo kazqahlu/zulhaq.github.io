@@ -1,0 +1,17 @@
+---
+layout: page
+title:  Ω
+date:   2020-11-21 19:31:42 +000
+categories: jekyll update
+---
+<h4>Soon-to-be birth-day-reflections</h4> 
+
+My niece said that soon I shall be ancient. Putting my affairs in order, I’d initially thought of hosting a fundraiser for <a href="https://www.givingwhatwecan.org/best-charities-to-donate-to-2020/">charities that aim to do the most good</a>, but I think that link will do far more than I ever could in one message. Instead, I’ll try to do what our age seems to surely lack: a <i>soliloquy</i>.
+
+According to several sources, that word which has harrowed us ad nauseum/infinitum is soon to pass. It’s strange to think that, unlike base reality, how spontaneous the change has been, and how events such as these can recreate our world. For many of us, this has been an egregious moment in our shared history: suspension, isolation and death.
+
+But such events aren’t abstract. They don’t happen to the “Other”. When talking to a loved one, I have often shared the silent <i>woe</i> that accompanies their reflections given the present state. In moments such as these, which feel without end, words can seem profane. But at certain points, a single voice, let alone a single word, can provide a sense of warmth, oneness and ease.
+
+And that, dear observer, is what this is all about. 
+
+More to follow.
