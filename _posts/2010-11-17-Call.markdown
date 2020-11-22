@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  Call
 date:   2010-11-17 19:31:42 +000
 categories: jekyll
@@ -14,7 +14,7 @@ the Heavens,
 Waterfalls of the Infinite
 See, 
 from steeple to steeple we strung,  
-Rosy fingered Dawn,
+<i>Rosy fingered Dawn</i>,
 A Thousand Dreams Felled
 calmy hung,
 Illumination
