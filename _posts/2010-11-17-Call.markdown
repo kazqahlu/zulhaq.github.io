@@ -1,0 +1,21 @@
+---
+layout: page
+title:  Call
+date:   2020-11-17 19:31:42 +000
+categories: jekyll
+permalink: "/Call"
+---
+<pre>
+Mother,
+
+I have Smelt the stars
+and Felt—
+the Heavens, 
+Waterfalls of the Infinite
+See, 
+from steeple to steeple we strung,  
+Rosy fingered Dawn,
+A Thousand Dreams Felled
+calmy hung,
+Illumination
+</pre>
