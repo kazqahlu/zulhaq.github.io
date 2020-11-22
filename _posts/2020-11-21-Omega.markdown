@@ -2,7 +2,8 @@
 layout: page
 title:  Ω
 date:   2020-11-21 19:31:42 +000
-categories: jekyll update
+categories: jekyll
+permalink: "/omega"
 ---
 <h4>Soon-to-be birth-day-reflections</h4> 
 
@@ -14,4 +15,4 @@ But such events aren’t abstract. They don’t happen to the “Other”. When 
 
 And that, dear observer, is what this is all about. 
 
-More to follow.
+More to follow. Why?
